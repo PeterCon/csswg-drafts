@@ -48,7 +48,7 @@ Introduction {#intro}
 	* The 'print-color-adjust' property,
 		which controls whether the browser is allowed
 		to automatically adjust colors to the user's assumed performance preferences,
-		such as suppressing background colors when printing to save ink.
+		such as suppressing background colors, when printing to save ink.
 
 	Together with the 'prefers-color-scheme', 'prefers-contrast', and 'forced-colors' [=media queries=] [[!MEDIAQUERIES-5]],
 	this module allows color scheme negotiation
